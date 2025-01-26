@@ -47,7 +47,7 @@ $(document).ready(function () {
 
   // switch button position
   function switchButton() {
-    var audio = new Audio("");
+    var audio = new Audio("./audio.mp3.mp4");
     audio.play();
     var leftNo = $("#no").css("left");
     var topNO = $("#no").css("top");
