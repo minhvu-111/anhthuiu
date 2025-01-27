@@ -3,7 +3,7 @@ const textConfig = {
   text2: "Tớ Muốn Hỏi Cậu Một Câu Hỏi <3",
   text3: "Bạn có ghét mình không",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text5: "Có ạ"
   text6: "Không ạ anh vũ là nhất",
   text7: "Lí do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
