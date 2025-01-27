@@ -107,7 +107,7 @@ $(document).ready(function () {
 
   // show popup
   $("#yes").click(function () {
-    var audio = new Audio("./audio.mp3.mp4");
+    var audio = new Audio("");
     audio.play();
     Swal.fire({
       title: textConfig.text7,
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("./anh3.jpg.jpg")',
+          background: '#fff url("")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
